@@ -1,3 +1,3 @@
-# EP3-LFA
+# Reconhecedor de Expressões Aritméticas
 
-Reconhecedor de Expressões Aritméticas
+
