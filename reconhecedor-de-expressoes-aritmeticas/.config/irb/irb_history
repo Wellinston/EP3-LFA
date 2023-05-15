@@ -1,0 +1,3 @@
+load cykExe.rb
+ruby cykExe.rb
+exit
